@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ISS-Tracker",
-    "slug": "ISS-Tracker",
+    "name": "ISS_Tracker",
+    "slug": "ISS_Tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

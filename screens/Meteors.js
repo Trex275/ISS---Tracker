@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, View } from 'react-native';
+import { Text, View,Alert } from 'react-native';
 
 export default class MeteorScreen extends Component {
     render() {
